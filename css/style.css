@@ -120,7 +120,7 @@ video {
     font-size: 68px;
     font-weight: bold;
     border: 5px black;
-    background-image: url('./asset/1325116.png'); 
+    background-image: url('../asset/1325116.png'); 
     background-position: center;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
